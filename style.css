@@ -20,6 +20,15 @@ color: green;
     font-family: Courier New
 }
 
+.paragraph-4 {
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Courier New;
+    text-shadow: 3px -4px 5px green;
+    text-align: center
+}
+
 background - цвет фона
 font-size - размер шрифта
 color - цвет шрифта
