@@ -1,0 +1,29 @@
+h1 {
+color: green;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22pt;
+    font-family: Courier New
+}
+
+background - цвет фона
+font-size - размер шрифта
+color - цвет шрифта
+border - рамка вокруг элемента
+border-radius - закругляет рамку
+font-weight - жирный шрифт (100 - 900, medium, bold и т.п.)
+font-family - стиль шрифта
